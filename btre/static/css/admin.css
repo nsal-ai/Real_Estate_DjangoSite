@@ -1,0 +1,18 @@
+#header {
+    height: 50px;
+    background-color:hsl(120, 77%, 28%);
+    color: #fff;
+}
+
+#branding h1 {
+    color: #fff;
+}
+
+a:link,
+a:visited {
+    color:hsl(244, 64%, 36%);
+}
+
+div.breadcrumbs {
+    background: rgb(115, 211, 115);
+}
